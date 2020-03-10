@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0649d0d8-5c42-44c4-93aa-636ce7379f1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyFirstWebProject/src/main/java/servlets/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/config/AsyncConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-test/src/main/java/async/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/client/src/com/chat/client/ClientWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/network.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/src/com/chat/metwork/TCPConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/network/src/com/chat/metwork/TCPConnectionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-multithreading/server/src/com/chat/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/model/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codevalue-java-coding-exercise/src/main/java/com/example/demo/services/WaterManipulationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/src/model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/src/model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/src/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../digital-general-electric-test-task/src/model/VehicleAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/configurations/StorageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/configurations/ThreadPoolConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/model/SiteModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/service/HttpResponseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/service/MapperServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test-using-threadlocal/src/main/java/com/ebay/normalization/javatest/service/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/configurations/HashTableStorageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/model/SiteModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/service/HttpResponseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/service/JsonParserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/service/MapperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebay-java-test/src/main/java/com/ebay/normalization/javatest/service/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/eight-queens-puzzle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eight-queens-puzzle/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../four-queens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../four-queens/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../four-queens/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library-fenix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/RunnableClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-handler/src/MonoThreadClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-handler/src/ServerBalancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-handler/src/ServerOneHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-handler/src/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-printer/src/ServerTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-web-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-web-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-web-project/src/main/java/servlets/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-web-project/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/jdbc-database-connection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/sql/create-user-table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/dao/DataDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/dao/DataDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/DataTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_BANKS_ACTIVITY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_DEBTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_DEBTS_ACTIVITIES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/model/MGA_DC_LOAD_GROUPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one-test/jdbc-database-connection/src/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andrey/contact-book" beforeDir="false" afterPath="$PROJECT_DIR$/../Andrey/contact-book" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED/java-1h-angular-fullstack" beforeDir="false" afterPath="$PROJECT_DIR$/../ED/java-1h-angular-fullstack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pasha/Contact_project" beforeDir="false" afterPath="$PROJECT_DIR$/../Pasha/Contact_project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffe-shop-sandbox/coffee-shop-sandbox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../coffee-shop-final/coffee-shop-sandbox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cool-team-project" beforeDir="false" afterPath="$PROJECT_DIR$/../cool-team-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github/cv_bank_sandbox" beforeDir="false" afterPath="$PROJECT_DIR$/../github/cv_bank_sandbox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github/security-developer" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-developer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github/security-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../github/security-practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-database-test" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-database-test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-contacts" beforeDir="false" afterPath="$PROJECT_DIR$/../my-contacts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../up-and-go-project" beforeDir="false" afterPath="$PROJECT_DIR$/../up-and-go-project" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-handler/src/ServerOneHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-printer/src/ServerTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server-handler/src/ServerSocket.java" />
+        <option value="$PROJECT_DIR$/client/src/DataOutputStreamSender.java" />
+        <option value="$PROJECT_DIR$/client/src/RunnableClientInteger.java" />
+        <option value="$PROJECT_DIR$/client/src/RunnableClientString.java" />
+        <option value="$PROJECT_DIR$/client/src/RunnableClientDouble.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/client/src/Client.java" />
+        <option value="$PROJECT_DIR$/client/src/RunnableClient.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/MonoThreadClientHandler.java" />
+        <option value="$PROJECT_DIR$/server-printer/src/MonoThreadClientHandler.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/Storage.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/ServerBalancer.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/ServerOneSender.java" />
+        <option value="$PROJECT_DIR$/server-printer/src/ServerTwo.java" />
+        <option value="$PROJECT_DIR$/server-handler/src/ServerOneHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/client/client.iml" />
+        <option value="$PROJECT_DIR$/server-handler/server-handler.iml" />
+        <option value="$PROJECT_DIR$/server-printer/server-printer.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-handler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-printer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multithreading-socket-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server-printer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebay-java-test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerBalancer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerBalancer" />
+      <module name="server-handler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerTwo" />
+      <module name="server-printer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ServerTwo" />
+        <item itemvalue="Application.ServerBalancer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0649d0d8-5c42-44c4-93aa-636ce7379f1e" name="Default Changelist" comment="" />
+      <created>1583841214795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583841214795</updated>
+      <workItem from="1583841217812" duration="31715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31715000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32981783" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39980826" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32981783" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="9" y="653" width="1876" height="408" id="Run" order="12" visible="true" weight="0.5493768" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32981783" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32981783" />
+      <window_info anchor="bottom" auto_hide="true" x="9" y="653" width="1876" height="408" id="Run" order="12" weight="0.5867689" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="339" column="18" selection-start-line="339" selection-start-column="18" selection-end-line="339" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/DataOutputStreamSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/RunnableClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/RunnableClientInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/RunnableClientString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FilterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="167" column="27" selection-start-line="167" selection-start-column="18" selection-end-line="167" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-handler/src/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/RunnableClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-handler/src/MonoThreadClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-printer/src/MonoThreadClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-handler/src/ServerOneSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-handler/src/ServerBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-printer/src/ServerTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-handler/src/ServerOneHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>server-handler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
